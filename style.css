@@ -5,7 +5,7 @@
 	scrollbar-width: thin;
 	scrollbar-color: #ccc #eee;
 }
-
+body{background:red}
 html {font-size: 10px;}
 body,h1,h2,h3,h4,h5,h6,p,a,address,strong,b,u,i,ul,li,
 .widget-title
